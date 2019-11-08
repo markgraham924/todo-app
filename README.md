@@ -5,7 +5,9 @@ Allows users to keep track of their task's needing to be done. It allows custom 
 It runs on any PHP enabled webserver ideal for families who can run it locally to keep track of their tasks.
 ## Installation Instructions
 1. Clone the repositry (into webserver public HTML)
+
 	 `git clone https://github.com/markgraham924/todo-app.git`
+     
 2. Create the database:
 	In your MYSQL client, enter the following commands.
 	
